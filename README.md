@@ -84,7 +84,7 @@ As expected single day data are distributed normally. Highest passengers flow is
 
 ## Passengers flow correlation between month
 
-Let's inspect which months are similar based on passengers flow.
+Let's inspect which months are similar to each other based on passengers flow on week days.
 
 ![alt text](docs/Passengers%20flow%20correlation%20between%20month.png "passengers flow correlation")
 
