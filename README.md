@@ -38,9 +38,9 @@ Which routes are most popular in Vilnius?
 
 Directions ATEITIES G.-BUKCIAI, BUKCIAI-ATEITIES G, FABIJONISKES-MARKUCI, MARKUCIAI-FABIJONISK are popular all year, other directions load depends on season and other factors. What is more, popular directions for IN/OUT are the same. Almost all directions to/from depot are "unpopular" with least passengers. 
 
-## Passenger flow by weekday
+## Passenger flow by week day
 
-It is interesting to inspect passengers traffic flow by weekdays over year and single month. At this point I am analyzing only count of passengers IN value.
+It is interesting to inspect passengers traffic flow by week days over year and single month. At this point I am analyzing only count of passengers IN value.
 
 ![alt text](docs/Passengers%20flow%20by%20week%20per%20year.png "passengers flow by weekday over year")
 
