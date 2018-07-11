@@ -18,8 +18,8 @@ Usage of Vilnius public transport rises till May, then it starts to decrease and
 
 In order to view how passengers are moving in the city I created passengers IN and passengers OUT heatmaps, that shows number of passengers in each stop.  
 URLs:
-* [Passengers IN](https://cdn.rawgit.com/tomasrasymas/vilnius-public-transport-passengers-traffic-analysis/master/docs/inheatmap.html)
-* [Passengers OUT](https://cdn.rawgit.com/tomasrasymas/vilnius-public-transport-passengers-traffic-analysis/master/docs/outheatmap.html)
+* [Passengers IN](https://cdn.rawgit.com/tomasrasymas/vilnius-public-transport-passengers-traffic-analysis/master/docs/in__heatmap.html)
+* [Passengers OUT](https://cdn.rawgit.com/tomasrasymas/vilnius-public-transport-passengers-traffic-analysis/master/docs/out__heatmap.html)
 
 ![alt text](docs/heatmap%20passengers%20in.png "passengers in heatmap")
 
